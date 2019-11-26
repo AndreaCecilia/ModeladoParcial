@@ -1,0 +1,2 @@
+# ModeladoParcial
+Parcial
